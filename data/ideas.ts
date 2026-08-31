@@ -25,4 +25,12 @@ export const initialIdeas: Idea[] = [
     author: "開発チーム",
     votes: 5,
   },
+  {
+    id: "idea-004",
+    title: "通し検証で追加したアイデア",
+    description: "テンプレートのCI・レビュー・公開の流れを確認するために追加しました。",
+    category: "業務効率化",
+    author: "検証",
+    votes: 1,
+  },
 ];
